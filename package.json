@@ -1,0 +1,23 @@
+{
+  "name": "zeldalyxc.top",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJYKK/zeldalyxc.top.git"
+  },
+  "author": "CJYKK",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/CJYKK/zeldalyxc.top/issues"
+  },
+  "homepage": "https://github.com/CJYKK/zeldalyxc.top#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
